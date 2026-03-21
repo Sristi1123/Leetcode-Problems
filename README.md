@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
