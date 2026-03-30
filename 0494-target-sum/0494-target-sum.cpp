@@ -31,10 +31,6 @@ public:
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
-        // int zeroCount = 0;
-        // for(int x : nums){
-        //     if(x == 0) zeroCount++;
-        // }
         return subset(nums,target,n);
     }
 };
