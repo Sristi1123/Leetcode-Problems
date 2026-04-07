@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1092-shortest-common-supersequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
