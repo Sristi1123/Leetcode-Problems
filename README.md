@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
