@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0131-palindrome-partitioning](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Math
 |  |
