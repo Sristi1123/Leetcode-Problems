@@ -1,6 +1,5 @@
 class Solution {
 public:
-    // int t[101][101];
     bool isPalindrome(string &s, int i, int j){
         while(i<=j){
             if(s[i]!=s[j]){
@@ -27,7 +26,6 @@ public:
     }
     vector<vector<string>> partition(string s) {
         int n=s.length();
-        // memset(t,-1,sizeof(t));
         vector<vector<string>> ans;
         vector<string> path;
         solve(s,0,ans, path);
