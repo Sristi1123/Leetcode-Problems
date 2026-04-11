@@ -1,14 +1,15 @@
 class Solution {
 public:
-    int p[1001][1001];
-    bool isPalindrome(string &s, int i, int j) {
-        if (p[i][j] != -1) return p[i][j]; // already computed!
-        int l = i, r = j;
-        while (l <= r) {
-            if (s[l] != s[r]) return p[i][j] = 0;
-            l++; r--;
+    // int t[101][101];
+    bool isPalindrome(string &s, int i, int j){
+        while(i<=j){
+            if(s[i]!=s[j]){
+                return false;
+            }
+            i++;
+            j--;
         }
-        return p[i][j] = 1;
+        return true;
     }
     void solve(string &s, int i, vector<vector<string>> &ans,vector<string> &path){
         if(i == s.length()){
@@ -26,7 +27,7 @@ public:
     }
     vector<vector<string>> partition(string s) {
         int n=s.length();
-        memset(p, -1, sizeof(p));
+        // memset(t,-1,sizeof(t));
         vector<vector<string>> ans;
         vector<string> path;
         solve(s,0,ans, path);
