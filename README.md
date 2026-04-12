@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
