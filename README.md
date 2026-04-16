@@ -102,19 +102,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0112-path-sum) |
 ## Backtracking
 |  |
