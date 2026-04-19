@@ -3,21 +3,14 @@ public:
     bool isIsomorphic(string s, string t) {
         if(s.length() != t.length()) return false;
 
-        unordered_map<char,char> m1;
-        unordered_map<char,char> m2;
+        int m1[256] = {0};
+        int m2[256] = {0};
 
         for(int i = 0; i < s.length(); i++){
-            char a = s[i];
-            char b = t[i];
+            if(m1[s[i]] != m2[t[i]]) return false;
 
-            // check s -> t
-            if(m1.count(a) && m1[a] != b) return false;
-
-            // check t -> s
-            if(m2.count(b) && m2[b] != a) return false;
-
-            m1[a] = b;
-            m2[b] = a;
+            m1[s[i]] = i + 1;
+            m2[t[i]] = i + 1;
         }
 
         return true;
