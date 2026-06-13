@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1934-confirmation-rate) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
