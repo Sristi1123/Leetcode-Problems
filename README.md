@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
