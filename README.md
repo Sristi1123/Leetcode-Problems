@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0887-super-egg-drop](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0887-super-egg-drop) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
