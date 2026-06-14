@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0887-super-egg-drop](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0887-super-egg-drop) |
 ## Tree
 |  |
