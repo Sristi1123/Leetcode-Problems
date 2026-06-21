@@ -4,15 +4,17 @@ public:
         int n=s.length();
         int m=t.length();
         if(n!=m) return false;
-        vector<int> freq(26,0);
-        for(char i:s){
-            freq[i-'a']++;
+        unordered_map<char,int>freq(n);
+        for(char ch:s){
+            freq[ch]++;
         }
-        for(char i:t){
-            freq[i-'a']--;
+        for(char c:t){
+            freq[c]--;
         }
-        for(int x:freq){
-            if(x!=0) return false;
+        for(auto it:freq){
+            if(it.second!=0){
+                return false;
+            }
         }
         return true;
     }
