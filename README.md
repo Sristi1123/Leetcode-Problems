@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
