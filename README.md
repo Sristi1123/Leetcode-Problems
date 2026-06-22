@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
