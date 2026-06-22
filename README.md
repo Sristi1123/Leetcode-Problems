@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
