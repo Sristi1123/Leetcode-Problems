@@ -3,31 +3,31 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
-        int lc=0;
-        int rc=m-1;
-        int tr=0;
-        int br=n-1;
+        int toprow=0;
+        int bottomrow=n-1;
+        int leftcol=0;
+        int rightcol=m-1;
         vector<int> ans;
-        while(lc<=rc && tr<=br){
-            for(int i=lc;i<=rc;i++){
-                ans.push_back(matrix[tr][i]);
+        while(leftcol<=rightcol && toprow<=bottomrow){
+            for(int i=leftcol;i<=rightcol;i++){
+                ans.push_back(matrix[toprow][i]);
             }
-            tr++;
-            for(int j=tr;j<=br;j++){
-                ans.push_back(matrix[j][rc]);
+            toprow++;
+            for(int j=toprow;j<=bottomrow;j++){
+                ans.push_back(matrix[j][rightcol]);
             }
-            rc--;
-            if(tr<=br){
-                for(int i=rc;i>=lc;i--){
-                    ans.push_back(matrix[br][i]);
+            rightcol--;
+            if(toprow<=bottomrow){
+                for(int i=rightcol;i>=leftcol;i--){
+                    ans.push_back(matrix[bottomrow][i]);
                 }
-                br--;
+                bottomrow--;
             }
-            if(lc<=rc){
-                for(int j=br;j>=tr;j--){
-                    ans.push_back(matrix[j][lc]);
+            if(leftcol<=rightcol){
+                for(int j=bottomrow;j>=toprow;j--){
+                    ans.push_back(matrix[j][leftcol]);
                 }
-                lc++;
+                leftcol++;
             }
         }
         return ans;
