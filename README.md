@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
