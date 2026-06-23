@@ -23,7 +23,7 @@ public:
     }
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n=nums.size();
-        
+        ans.clear();
         if(n<3) return {};
         //sort
         sort(nums.begin(),nums.end());
