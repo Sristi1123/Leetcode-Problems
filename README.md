@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0887-super-egg-drop](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1092-shortest-common-supersequence) |
+| [1137-n-th-tribonacci-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Linked List
@@ -215,11 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0887-super-egg-drop](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0887-super-egg-drop) |
+| [1137-n-th-tribonacci-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
 | ------- |
