@@ -15,9 +15,7 @@ public:
             int start=0;
             int end=n-1;
             while(start<end){
-                int a=matrix[i][start];
-                matrix[i][start]=matrix[i][end];
-                matrix[i][end]=a;
+                swap(matrix[i][start],matrix[i][end]);
                 start++;
                 end--;
             }
