@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
