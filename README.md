@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
