@@ -1,6 +1,7 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
+        //min(maxlh, maxrh)-myheight
         int n = height.size();
         int left = 0;
         int right = n - 1;
