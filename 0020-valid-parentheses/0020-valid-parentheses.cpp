@@ -13,6 +13,6 @@ public:
                 st.pop();
             }
         }
-        return true;
+        return st.empty();
     }
 };
