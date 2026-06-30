@@ -2,22 +2,22 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n = height.size();
+        stack<int> st;
+        int water_stored = 0;
 
-        vector<int> leftMax(n);
-        vector<int> rightMax(n);
-
-        leftMax[0] = height[0];
-        for (int i = 1; i < n; i++) {
-            leftMax[i] = max(leftMax[i - 1], height[i]);
+        for (int i=0;i<n; i++) {
+            while (!st.empty() && height[i]>height[st.top()]) {
+                int bottom = st.top();
+                st.pop();
+                if (st.empty())
+                    break;
+                int left = st.top();
+                int width = i - left - 1;
+                int b_height = min(height[left], height[i]) - height[bottom];
+                water_stored += width * b_height;
+            }
+            st.push(i);
         }
-        rightMax[n - 1] = height[n - 1];
-        for (int i = n - 2; i >= 0; i--) {
-            rightMax[i] = max(rightMax[i + 1], height[i]);
-        }
-        int water = 0;
-        for (int i = 0; i < n; i++) {
-            water += min(leftMax[i], rightMax[i]) - height[i];
-        }
-        return water;
+        return water_stored;
     }
 };
