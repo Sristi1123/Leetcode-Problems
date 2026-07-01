@@ -2,14 +2,15 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        sort(nums.begin(),nums.end());
-        int a=n;
-        for(int i=0;i<n;i++){
-            if(i!=nums[i]){
-                a=i;
-                break;
+        unordered_set<int> st;
+        for(int i: nums){
+            st.insert(i);
+        }
+        for(int i=0;i<=n;i++){
+            if(st.find(i)==st.end()){
+                return i;
             }
         }
-        return a;
+        return -1;
     }
 };
