@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1732-find-the-highest-altitude](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
