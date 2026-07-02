@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
