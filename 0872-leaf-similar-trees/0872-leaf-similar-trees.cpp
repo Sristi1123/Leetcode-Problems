@@ -11,25 +11,20 @@
  */
 class Solution {
 public:
-    void getLeaves(TreeNode* root, vector<int>& leaves) {
-        if (root == NULL)
-            return;
-
-        if (root->left == NULL && root->right == NULL) {
-            leaves.push_back(root->val);
-            return;
+    vector<int> helper(TreeNode* root, vector<int> &ans){
+        if(root==NULL) return ans;
+        if(root->left==NULL && root->right==NULL){
+            ans.push_back(root->val);
         }
-
-        getLeaves(root->left, leaves);
-        getLeaves(root->right, leaves);
+        helper(root->left,ans);
+        helper(root->right,ans);
+        return ans;
     }
-    
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        vector<int> leaves1, leaves2;
-
-        getLeaves(root1, leaves1);
-        getLeaves(root2, leaves2);
-
-        return leaves1 == leaves2;
+        vector<int> v1;
+        vector<int> v2;
+        helper(root1,v1);
+        helper(root2,v2);
+        return v1==v2;
     }
 };
