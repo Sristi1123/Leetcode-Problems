@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
@@ -292,11 +295,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 ## Backtracking
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Math
 |  |
