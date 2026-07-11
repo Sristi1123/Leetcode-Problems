@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0887-super-egg-drop) |
 | [1137-n-th-tribonacci-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2525-categorize-box-according-to-criteria) |
 ## Memoization
 |  |
 | ------- |
