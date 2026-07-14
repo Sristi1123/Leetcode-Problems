@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
