@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
