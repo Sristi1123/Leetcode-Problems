@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
