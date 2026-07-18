@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0706-design-hashmap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
