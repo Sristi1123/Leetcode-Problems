@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
