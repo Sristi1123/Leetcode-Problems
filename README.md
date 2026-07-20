@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
