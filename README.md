@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1907-count-salary-categories](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1934-confirmation-rate) |
+| [1965-employees-with-missing-information](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1965-employees-with-missing-information) |
 ## Counting
 |  |
 | ------- |
