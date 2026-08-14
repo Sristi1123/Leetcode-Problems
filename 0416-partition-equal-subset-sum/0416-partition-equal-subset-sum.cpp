@@ -2,6 +2,7 @@ class Solution {
 public:
     int t[201][1001];
     bool check(vector<int>& nums, int sum, int n){
+        if(n==0 && sum==0) return true;
         for(int i=0;i<n+1;i++){
             for(int j=0;j<sum+1;j++){
                 if(i==0) t[i][j]= false;
@@ -19,13 +20,16 @@ public:
         }
         return t[n][sum];
     }
-    bool canPartition(vector<int>& nums) {
+    bool isSubset(vector<int>& nums, int sum){
         int n=nums.size();
+        return check(nums,sum,n);
+    }
+    bool canPartition(vector<int>& nums) {
         int sum=0;
         for(int i:nums){
             sum+=i;
         }
         if(sum%2!=0) return false;
-        return check(nums,sum/2,n);
+        return isSubset(nums,sum/2);
     }
 };
