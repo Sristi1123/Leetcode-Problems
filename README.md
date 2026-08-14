@@ -530,4 +530,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
