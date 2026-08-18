@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1075-project-employees-i) |
+| [1179-reformat-department-table](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1517-find-users-with-valid-e-mails) |
