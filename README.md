@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0872-leaf-similar-trees](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 ## Backtracking
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/Sristi1123/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 ## Pigeonhole Principle
 |  |
