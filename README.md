@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3842-toggle-light-bulbs](https://github.com/Sristi1123/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
+| [3945-digit-frequency-score](https://github.com/Sristi1123/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sristi1123/Leetcode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Sristi1123/Leetcode-Problems/tree/master/2525-categorize-box-according-to-criteria) |
+| [3945-digit-frequency-score](https://github.com/Sristi1123/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Memoization
 |  |
 | ------- |
